@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "packType": "oscar-film-enrichment-pack",
+    "version": 1,
+    "source": "fill-me-in",
+    "generatedAt": "2026-03-28",
+    "downloadedPosters": false,
+    "attributionRequired": false,
+    "attributionNotice": "",
+    "notes": "Generated from the merged data. Fill only the remaining gaps."
+  },
+  "films": [
+    {
+      "id": "revolting-rhymes-2018",
+      "title": "Revolting Rhymes",
+      "imdbTitleId": "tt6386210",
+      "tmdbId": null,
+      "posterUrl": "",
+      "posterLocal": false,
+      "backdropUrl": "",
+      "synopsis": "",
+      "runtimeMinutes": null,
+      "genres": [],
+      "enrichmentSource": "TMDb",
+      "enrichmentUpdatedAt": ""
+    },
+    {
+      "id": "summer-of-soul-or-when-the-revolution-could-not-be-televised-2022",
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "imdbTitleId": "tt11422728",
+      "tmdbId": null,
+      "posterUrl": "",
+      "posterLocal": false,
+      "backdropUrl": "",
+      "synopsis": "",
+      "runtimeMinutes": null,
+      "genres": [],
+      "enrichmentSource": "TMDb",
+      "enrichmentUpdatedAt": ""
+    }
+  ]
+}

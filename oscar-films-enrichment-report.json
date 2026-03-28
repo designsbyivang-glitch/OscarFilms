@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-03-28T16:16:37",
+  "source": "TMDb",
+  "stats": {
+    "totalFilms": 611,
+    "withPoster": 609,
+    "withSynopsis": 609,
+    "missingPoster": 2,
+    "missingSynopsis": 2,
+    "missingBoth": 2
+  }
+}
